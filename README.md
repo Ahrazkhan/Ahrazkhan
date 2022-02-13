@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahrazkhan
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning node.js , react.js
+- 🌱 I’m currently learning node.js , Angular.js , react.js
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 Email: khanahraz7533@gmail.com
